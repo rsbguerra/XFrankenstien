@@ -7,7 +7,7 @@
             "foreground": "#ffffffd9"
         },
         "variable.constant": {
-            "foreground": "#d9c97c"
+            "foreground": "#1E98FF"
         },
         "variable.defaultLibrary": {
             "foreground": "#6bdfe1"
@@ -1754,7 +1754,7 @@
     ],
     "colors": {
         // Base
-        "focusBorder": "#dec18500",
+        "focusBorder": "#1E98FF00",
         "icon.foreground": "#E1F0FC60",
 
         // Welcome Tab
@@ -1771,12 +1771,12 @@
         "editor.selectionHighlightBorder": "#E1F0FC65",
         "editorLineNumber.foreground": "#E1F0FC35",
         "editorLineNumber.activeForeground": "#f8f8f2",
-        "editorGroup.border": "#dec18500",
+        "editorGroup.border": "#1E98FF00",
         "editorGroup.dropBackground": "#E1F0FC20",
         "editorGroupHeader.tabsBackground": "#0c0c0c",
         "editorCursor.foreground": "#f8f8f2",
         "editorWidget.background": "#111113",
-        "editorWarning.foreground": "#dec185",
+        "editorWarning.foreground": "#1E98FF",
         "editorError.foreground": "#fd6c84",
         "editorCodeLens.foreground": "#404c52",
         "editorHoverWidget.foreground": "#f8f8f2",
@@ -1785,7 +1785,7 @@
         "editorGutter.modifiedBackground": "#E1F0FC70",
         "editorGutter.deletedBackground": "#fd6c8470",
         "editorOverviewRuler.border": "#1B1C21",
-        "editorWidget.resizeBorder": "#dec185",
+        "editorWidget.resizeBorder": "#1E98FF",
 
 
         // Lists and Trees
@@ -1793,13 +1793,14 @@
         "list.activeSelectionBackground": "#E1F0FC25",
         "list.inactiveSelectionBackground": "#E1F0FC15",
         "list.inactiveSelectionIconForeground": "#E1F0FC35",
-        "list.activeSelectionIconBackground": "#dec18550",
+        "list.activeSelectionIconBackground": "#1E98FF50",
         "list.activeSelectionIconForeground": "#f8f8f2",
-        "list.warningForeground": "#dec185",
+        "list.warningForeground": "#1E98FF",
         "list.errorForeground": "#fd6c84",
+        "list.dropBackground": "#1E98FF50",
 
         // Progress Bar
-        "progressBar.background": "#dec185",
+        "progressBar.background": "#1E98FF",
 
         // Scroll Bar
         "scrollbarSlider.background": "#E1F0FC35",
@@ -1810,21 +1811,21 @@
         // Tabs
         "tab.activeBackground": "#1B1C21",
         "tab.inactiveBackground": "#15161a",
-        "tab.activeBorderTop": "#dec18580",
+        "tab.activeBorderTop": "#1E98FF80",
         "tab.border": "#ff000000",
         "editorGroupHeader.tabsBackground": "#0c0c0c",
 
         // Badges
-        "badge.foreground": "#17171a",
-        "badge.background": "#ffda97",
+        "badge.foreground": "#f8f8f2",
+        "badge.background": "#1E98FF",
 
         // Activity Bar
         "activityBar.background": "#0c0c0c",
         "activityBar.foreground": "#f8f8f2",
-        "activityBarBadge.background": "#ffda97",
-        "activityBarBadge.foreground": "#111113",
+        "activityBarBadge.background": "#1E98FF",
+        "activityBarBadge.foreground": "#f8f8f2",
         "activityBar.inactiveForeground": "#E1F0FC70",
-        "activityBar.activeBorder": "#dec185",
+        "activityBar.activeBorder": "#1E98FF",
 
         // Side Bar
         "sideBarTitle.foreground": "#f8f8f2",
@@ -1836,8 +1837,8 @@
         "sideBarSectionHeader.border": "#15161a",
 
         // Buttons
-        "button.background": "#dec185",
-        "button.foreground": "#17171a",
+        "button.background": "#1E98FF",
+        "button.foreground": "#f8f8f2",
 
         // Minimap
         "minimap.background": "#1B1C21",
@@ -1857,21 +1858,23 @@
         "statusBar.noFolderBackground": "#111113",
         "statusBar.noFolderForeground": "#f8f8f2",
         "statusBarItem.hoverBackground": "#E1F0FC20",
-        "statusBarItem.remoteBackground": "#dec185",
-        "statusBarItem.remoteForeground": "#111113",
+        "statusBarItem.remoteBackground": "#1E98FF",
+        "statusBarItem.remoteForeground": "#f8f8f2",
         "statusBar.debuggingBackground": "#FF757B",
         "statusBar.debuggingForeground": "#17171a",
 
         // Notifications
         "notifications.background": "#111113",
         "notificationsInfoIcon.foreground": "#f8f8f2",
-        "notificationsWarningIcon.foreground": "#dec185",
+        "notificationsWarningIcon.foreground": "#1E98FF",
         "notificationsErrorIcon.foreground": "#fd6c84",
 
         // Settings
-        "settings.modifiedItemIndicator": "#dec185",
+        "settings.modifiedItemIndicator": "#1E98FF",
         "settings.dropdownBackground": "#111113",
         "settings.dropdownForeground": "#f8f8f2",
+
+        "panelSection.dropBackground": "#1E98FF40"
 
     }
 }
